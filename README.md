@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Saif 👋
 
-<!--
-**saif-killedar-tech/saif-killedar-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Java Full Stack Developer focused on building scalable backend systems and clean frontend applications.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- Spring Boot backend development
+- React frontend applications
+- Data Structures & Algorithms
+- Real-world portfolio projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Java
+- Spring Boot
+- MySQL
+- React
+- Git & GitHub
+
+## 🎯 Goal
+To become industry-ready and build production-level applications.
